@@ -1,0 +1,15 @@
+server:
+  port: 8095
+#
+#spring:
+#  application:
+#    name: springboot-microservice-api-gateway
+#
+#  cloud:
+#    gateway:
+#      routes:
+#        - id: Spring-boot-demo-app-rest
+#          uri: http://localhost:8090
+#          predicates:
+#            - Path=/loan/api/v1.0/**
+#
