@@ -9,6 +9,7 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 public class SpringbootMicroserviceApiGatewayApplication {
 
 	public static void main(String[] args) {
+		System.out.println("hello from main method calss");
 		SpringApplication.run(SpringbootMicroserviceApiGatewayApplication.class, args);
 	}
 
